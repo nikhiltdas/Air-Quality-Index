@@ -14,7 +14,7 @@ This system collects air quality data (temperature, humidity, and gas levels) us
 -   Arduino IDE (for ESP32 firmware)
 -   AWS IoT Core
 -   MongoDB Atlas (or local MongoDB instance)
--   Python (for data processing and storage)
+-   Node JS (for data processing and storage)
 -   Arduino Libraries:
     -   DHT sensor library (e.g., DHT sensor library by Adafruit)
     -   PubSubClient (for MQTT communication)
