@@ -63,58 +63,7 @@ This system collects air quality data (temperature, humidity, and gas levels) us
 4.  You can then query the MongoDB database to analyze the collected data.
 5. You can also use Mongocharts to display the data in a visual format or any other chart applications.
 
-In parallel I used to conduct a survey in students of the classroom. The survey consist of the following questions:
-
-## 1. Are you experiencing any discomfort due to the temperature in the classroom?
- ### Very often
- ### Often
-### Sometimes
- ### Never
- ### Low
-
-2. Have you often encounter with headache while in classroom?
- Very often
- Often
- Sometimes
- Never
- Low
-
-3. Do you have difficulty concentrating or feel fatigued?
- Very often
- Often
- Sometimes
- Never
-
-4. Have you noticed any unusual odors or tastes in your classroom?
- Very often
- Often
- Sometimes
- Never
-
-5. Have you noticed any changes in your mood or emotional well-being related to certain
-environmental conditions?
- Yes
-
- No
-6. Do you think your classroom has adequate supply of light and air?
- Yes
-
- No
-7. Are there any noticeable sources of indoor air pollution in your classroom? (e.g., strong
-odors, dust, mold)
-Very High
-High
-Moderate Low
-
-8. How often do you attend classes in this classroom?
- Daily
- Weekly
- Monthly
- Not have a proper cycle
-
- 9. Have you taking any medicines which alters your normal hormonal balance?
-Yes
-No
+In parallel I used to conduct a survey in students of the classroom. The data then processed to find the correlation between the data using IBM SPSS software to analyze the data
 
 ### IBM SPSS Statistics is a powerful statistical software suite developed by IBM. It's widely used by researchers, analysts, and businesses to perform various statistical analyses and data management tasks. 
 ## What is IBM SPSS Statistics?
