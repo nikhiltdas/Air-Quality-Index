@@ -66,7 +66,7 @@ This system collects air quality data (temperature, humidity, and gas levels) us
 In parallel I used to conduct a survey in students of the classroom. The survey consist of the following questions:
 
 1. Are you experiencing any discomfort due to the temperature in the classroom?
- Very often
+ ### Very often
  Often
  Sometimes
  Never
