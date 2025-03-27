@@ -11,11 +11,11 @@
 
 ## Software Components
 
- :small_orange_diamond: Arduino IDE (for ESP32 firmware)
- :small_orange_diamond: AWS IoT Core
- :small_orange_diamond:  MongoDB Atlas (or local MongoDB instance)
- :small_orange_diamond:  Node JS (for data processing and storage)
- :small_orange_diamond:**:small_orange_diamond:** Arduino Libraries:
+ Arduino IDE (for ESP32 firmware)
+ AWS IoT Core
+ MongoDB Atlas (or local MongoDB instance)
+  Node JS (for data processing and storage)
+  Arduino Libraries:
     -   DHT sensor library (e.g., DHT sensor library by Adafruit)
     -   PubSubClient (for MQTT communication)
 
