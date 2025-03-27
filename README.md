@@ -1,8 +1,8 @@
-:small_orange_diamond: # Air Quality Index
+ # Air Quality Index
 
-This system collects air quality data (temperature, humidity, and gas levels) using an ESP32 microcontroller and sensors. The data is then transmitted to AWS IoT Core using MQTT for reliable message queuing. A separate application (e.g., a Python script or AWS Lambda function) retrieves the data from AWS IoT Core and stores it in a MongoDB database. This allows for real-time monitoring and historical data analysis.
+:large_blue_diamond: This system collects air quality data (temperature, humidity, and gas levels) using an ESP32 microcontroller and sensors. The data is then transmitted to AWS IoT Core using MQTT for reliable message queuing. A separate application (e.g., a Python script or AWS Lambda function) retrieves the data from AWS IoT Core and stores it in a MongoDB database. This allows for real-time monitoring and historical data analysis.
 
-:large_blue_diamond: ## Hardware Components
+ ## Hardware Components
 
 -   ESP32 Development Board
 -   DHT11 Temperature and Humidity Sensor
@@ -11,11 +11,11 @@ This system collects air quality data (temperature, humidity, and gas levels) us
 
 ## Software Components
 
--   Arduino IDE (for ESP32 firmware)
--   AWS IoT Core
--   MongoDB Atlas (or local MongoDB instance)
--   Node JS (for data processing and storage)
--   Arduino Libraries:
+ :small_orange_diamond: Arduino IDE (for ESP32 firmware)
+ :small_orange_diamond: AWS IoT Core
+ :small_orange_diamond:  MongoDB Atlas (or local MongoDB instance)
+ :small_orange_diamond:  Node JS (for data processing and storage)
+ :small_orange_diamond:**:small_orange_diamond:** Arduino Libraries:
     -   DHT sensor library (e.g., DHT sensor library by Adafruit)
     -   PubSubClient (for MQTT communication)
 
