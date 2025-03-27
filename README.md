@@ -1,4 +1,4 @@
-#Air Quality Index
+# Air Quality Index
 
 This system collects air quality data (temperature, humidity, and gas levels) using an ESP32 microcontroller and sensors. The data is then transmitted to AWS IoT Core using MQTT for reliable message queuing. A separate application (e.g., a Python script or AWS Lambda function) retrieves the data from AWS IoT Core and stores it in a MongoDB database. This allows for real-time monitoring and historical data analysis.
 
